@@ -1,16 +1,16 @@
 {
-  "name": "wowchemy",
+  "name": "tonyonbox3",
   "version": "1.0.0",
   "description": "The Page Builder for Hugo",
-  "author": "George Cushen",
+  "author": "Self tester",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wowchemy/wowchemy-hugo-themes/issues"
+    "url": "https://github.com/tonyonbox3/wowchemy-themes-source/issues"
   },
-  "homepage": "https://wowchemy.com",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wowchemy/wowchemy-hugo-themes.git"
+    "url": "git+https://github.com/tonyonbox3/wowchemy-themes-source.git"
   },
   "main": "index.js",
   "dependencies": {
