@@ -1,8 +1,8 @@
 name = "Wowchemy Widget Pages"
 license = "MIT"
-licenselink = "https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md"
+licenselink = "https://github.com/tonyonbox3/wowchemy-themes-source/blob/main/LICENSE.md"
 description = "Create any kind of website with fully customizable widgets - 50+ light/dark color themes, language packs, and widgets included."
-homepage = "https://github.com/wowchemy/wowchemy-hugo-themes"
+homepage = "https://github.com/tonyonbox3/wowchemy-themes-source"
 demosite = "https://hugo-academic-pages.netlify.app/"
 tags = ["widgets",
         "portfolio",
