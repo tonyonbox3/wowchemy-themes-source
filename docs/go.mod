@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-hugo-themes/docs
+module github.com/tonyonbox3/wowchemy-themes-source/docs
 
 go 1.15
