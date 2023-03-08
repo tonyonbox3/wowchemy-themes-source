@@ -1,4 +1,3 @@
-# module github.com/wowchemy/hugo-blog-theme
 module github.com/tonyonbox3/wowchemy-blog-theme
 
 go 1.15
